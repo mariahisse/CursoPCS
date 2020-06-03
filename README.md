@@ -1,4 +1,4 @@
-# README
+# Repositório para o Curso
 
 Este repositório é destinado ao curso Práticas de Cloud Services usando Swift com ênfase em IoT. Nele vai conter:
 
