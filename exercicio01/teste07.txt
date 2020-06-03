@@ -1,4 +1,7 @@
 Teste7 Criando novo arquivo
 Editando no GitHub
+<<<<<<< HEAD
 
 Alterando para gerar conflito e em seguida resolver
+
+Resolvendo conflito
