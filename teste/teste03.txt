@@ -1,3 +1,2 @@
 Teste 03
-
-No git testando
+Removendo e adicionando uma nova linha
