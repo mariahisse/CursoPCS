@@ -1,2 +1,4 @@
 Teste7 Criando novo arquivo
 Editando no GitHub
+
+Alterando para gerar conflito e em seguida resolver
